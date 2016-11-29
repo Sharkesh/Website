@@ -39,5 +39,16 @@ namespace Sharkesh.Controllers
 
             return View();
         }
+        public ActionResult Impressum()
+        {
+            ViewBag.Message = "Impressum";
+
+            return View();
+        }
+        public ActionResult AGB()
+        {
+            ViewBag.Messsage = "AGB";
+            return View();
+        }
     }
 }
