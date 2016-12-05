@@ -1,0 +1,120 @@
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\roslyn\csc.exe
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\roslyn\System.Collections.Immutable.dll
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\roslyn\System.Reflection.Metadata.dll
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\roslyn\vbc.exe
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\roslyn\VBCSCompiler.exe
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\roslyn\VBCSCompiler.exe.config
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\Sharkesh.dll.config
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\Sharkesh.dll
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\Sharkesh.pdb
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\Antlr3.Runtime.dll
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\Microsoft.Web.Infrastructure.dll
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\Newtonsoft.Json.dll
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\System.Web.Helpers.dll
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\System.Web.Mvc.dll
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\System.Web.Optimization.dll
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\System.Web.Razor.dll
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\System.Web.WebPages.Deployment.dll
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\System.Web.WebPages.dll
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\System.Web.WebPages.Razor.dll
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\WebGrease.dll
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\System.Web.Helpers.xml
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\System.Web.Mvc.xml
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\System.Web.Optimization.xml
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\System.Web.Razor.xml
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\System.Web.WebPages.xml
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\System.Web.WebPages.Deployment.xml
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\System.Web.WebPages.Razor.xml
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\Antlr3.Runtime.pdb
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\bin\Newtonsoft.Json.xml
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\obj\Debug\Sharkesh.csprojResolveAssemblyReference.cache
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\obj\Debug\Sharkesh.dll
+d:\users\dominic\documents\visual studio 2015\Projects\Sharkesh\Sharkesh\obj\Debug\Sharkesh.pdb
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\roslyn\csc.exe
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\roslyn\vbc.exe
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\roslyn\VBCSCompiler.exe
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\Sharkesh.dll.config
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\Sharkesh.dll
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\Sharkesh.pdb
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\Antlr3.Runtime.dll
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\Newtonsoft.Json.dll
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\System.Web.Helpers.dll
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\System.Web.Mvc.dll
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\System.Web.Optimization.dll
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\System.Web.Razor.dll
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\System.Web.WebPages.Deployment.dll
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\System.Web.WebPages.dll
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\System.Web.WebPages.Razor.dll
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\WebGrease.dll
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\System.Web.Helpers.xml
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\System.Web.Mvc.xml
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\System.Web.Optimization.xml
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\System.Web.Razor.xml
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\System.Web.WebPages.xml
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\System.Web.WebPages.Deployment.xml
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\System.Web.WebPages.Razor.xml
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\Antlr3.Runtime.pdb
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\bin\Newtonsoft.Json.xml
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\obj\Debug\Sharkesh.csprojResolveAssemblyReference.cache
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\obj\Debug\Sharkesh.dll
+D:\Users\Dominic\Documents\GitHub\Website\Sharkesh\obj\Debug\Sharkesh.pdb
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\roslyn\csc.exe
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\roslyn\vbc.exe
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\Sharkesh.dll.config
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\Sharkesh.dll
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\Sharkesh.pdb
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\Antlr3.Runtime.dll
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\Newtonsoft.Json.dll
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\System.Web.Helpers.dll
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\System.Web.Mvc.dll
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\System.Web.Optimization.dll
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\System.Web.Razor.dll
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\System.Web.WebPages.dll
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\WebGrease.dll
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\System.Web.Helpers.xml
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\System.Web.Mvc.xml
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\System.Web.Optimization.xml
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\System.Web.Razor.xml
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\System.Web.WebPages.xml
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\bin\Newtonsoft.Json.xml
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\obj\Debug\Sharkesh.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\obj\Debug\Sharkesh.dll
+C:\Users\admin\Documents\GitHub\Website\Sharkesh\obj\Debug\Sharkesh.pdb
