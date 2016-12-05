@@ -23,12 +23,12 @@
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav" style="text-align:center">
+                <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Home", "Index", "Home")</li>
                     <li>@Html.ActionLink("Über Uns", "About", "Home")</li>
                     <li>@Html.ActionLink("Projekte", "Projects", "Home")</li>
-                    <li>@Html.ActionLink("Angebote", "Offers", "Home")</li>
-                    <li>@Html.ActionLink("Kontakte", "Contact", "Home")</li>
+                    @*<li>@Html.ActionLink("Angebote", "Offers", "Home")</li>*@
+                    <li>@Html.ActionLink("Kontakte", "Impressum", "Home")</li>
                 </ul>
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
@@ -39,15 +39,15 @@
         
         <footer class="footer navbar-default">
             <!-- Style vll noch Schöner Platzieren-->
-            <div class="container" style="font-size:1.5em;font-weight:bolder">
-                    <p class="col-lg-2  col-md-3 col-sm-3 col-lg-offset-3 col-md-offset-2 col-sm-offset-3 text-center" style="margin-bottom:0;margin-top:10px;">
+            <div class="container">
+                    <p class="col-lg-2  col-md-4 col-sm-4 col-lg-offset-3 text-center" style="margin-bottom:0;margin-top:10px;">
                         <a href="@Url.Action("Impressum", "Home")">Impressum</a>
                     </p>
-                    <p class="col-lg-2 col-md-3 col-sm-3 text-center" style="margin-bottom:0;margin-top:10px;">
+                    <p class="col-lg-2 col-md-4 col-sm-4 text-center" style="margin-bottom:0;margin-top:10px;">
                         <a href="@Url.Action("AGB", "Home")">AGB</a>
                     </p>
-                    <p class="col-lg-3 col-md-3 text-center" style="margin-bottom:0;">
-                        <img src="~/img/FirmenBilder/Copyright.png" alt="Copyright Sharkesh IT KG" height="50" />
+                    <p class="col-lg-2 col-md-4 col-sm-4 text-center" style="margin-top:10px;">
+                        <img src="~/img/FirmenBilder/Copyright.png" alt="Copyright Sharkesh IT KG" height="15" />
                     </p>
             </div>
         </footer>
