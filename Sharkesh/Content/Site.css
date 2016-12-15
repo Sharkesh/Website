@@ -2,7 +2,9 @@
     margin-bottom: 1em;
     margin-top: 2em;
     text-align: justify;
-    padding: 15px;
+    padding: 15px;    
+}
+.border_bottom{
     border-bottom: 1px solid;
     border-bottom-color: darkgray;
 }
@@ -53,3 +55,4 @@ text-center {
     width: 70%;
     margin: auto;
 }
+
