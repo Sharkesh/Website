@@ -27,7 +27,8 @@
                     <li>@Html.ActionLink("Home", "Index", "Home")</li>
                     <li>@Html.ActionLink("Über Uns", "About", "Home")</li>
                     <li>@Html.ActionLink("Projekte", "Projects", "Home")</li>
-                    <li>@Html.ActionLink("Angebote", "Offers", "Home")</li>
+                    @*<li>@Html.ActionLink("Angebote", "Offers", "Home")</li>*@
+                    <li>@Html.ActionLink("Kontakt", "Impressum", "Home")</li>
                 </ul>
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
@@ -39,8 +40,8 @@
         <footer class="footer navbar-default">
             <!-- Style vll noch Schöner Platzieren-->
             <div class="container">
-                    <p class="col-lg-3  col-md-4 col-sm-4 col-lg-offset-2 text-center" style="margin-bottom:0;margin-top:10px;">
-                        <a href="@Url.Action("Impressum", "Home")">Impressum / Kontakt</a>
+                    <p class="col-lg-2  col-md-4 col-sm-4 col-lg-offset-3 text-center" style="margin-bottom:0;margin-top:10px;">
+                        <a href="@Url.Action("Impressum", "Home")">Impressum</a>
                     </p>
                     <p class="col-lg-2 col-md-4 col-sm-4 text-center" style="margin-bottom:0;margin-top:10px;">
                         <a href="@Url.Action("AGB", "Home")">AGB</a>
