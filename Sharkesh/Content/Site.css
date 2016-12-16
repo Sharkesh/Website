@@ -1,8 +1,10 @@
-﻿section {
+section {
     margin-bottom: 1em;
     margin-top: 2em;
     text-align: justify;
-    padding: 15px;
+    padding: 15px;    
+}
+.border_bottom{
     border-bottom: 1px solid;
     border-bottom-color: darkgray;
 }
@@ -30,6 +32,7 @@ nav {
 
 .navbar-default .navbar-nav > li > a {
     color: #6E7D8E;
+    padding-left:10px;
 }
 
 footer {
@@ -76,4 +79,3 @@ h4 {
     font-size: 11pt;
     font-family: 'Franklin Gothic Book', sans-serif;
 }
-
