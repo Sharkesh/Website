@@ -13,20 +13,30 @@ namespace Sharkesh.Controllers
             ViewBag.Message = "Home";
             return View();
         }
+
         public ActionResult About()
         {
             ViewBag.Message = "Über Uns";
 
             return View();
         }
+
         public ActionResult Projects()
         {
             ViewBag.Message = "Projekte";
             return View();
         }
+
         public ActionResult Offers()
         {
             ViewBag.Message = "Angebote";
+            return View();
+        }
+
+        public ActionResult Contact()
+        {
+            ViewBag.Message = "Kontakt";
+
             return View();
         }
         public ActionResult Impressum()
