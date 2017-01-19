@@ -50,5 +50,18 @@ namespace Sharkesh.Controllers
             ViewBag.Messsage = "AGB";
             return View();
         }
+        public ActionResult Support()
+        {
+            return View();
+        }
+        public ActionResult Projekt()
+        {
+            return View();
+        }
+        public ActionResult Entwicklungsprojekt()
+        {
+            return View();
+        }
+
     }
 }
