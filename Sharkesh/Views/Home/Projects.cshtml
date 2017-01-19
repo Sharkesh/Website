@@ -1,11 +1,50 @@
 ﻿@{
-    ViewBag.Title = "Projekte";
+    ViewBag.Title = "IT-Services";
 }
 
-<!-- Content -->
-<div class="container">
-    <div class="row">
-        <center><img class="img-responsive" src="~/img/Under-construction.png" alt="Under Construction" /></center>
+<div class="row" style="width:80%;margin-left:auto;margin-right:auto;">
+    <center><h1>IT so wie Sie sie brauchen!</h1></center>
+
+    <div>
+        <section class="col-lg-4 col-sm-12">
+            <center><img src="~/img/IT-Support.jpg" /></center>
+            <h3 style="text-align:center;padding-bottom:10px;">IT-Support</h3>
+            <p>
+                Support Kunden der Sharkesh IT KG haben es gut. Unser Expertenteam
+                steht an 365 Tagen im Jahr zu Ihrer Verfügung. Schnelle telefonische
+                Erreichbarkeit und das bedeuten minimalen Aufwand für Ihre Mitarbeiter.
+                Unsere garantierten Reaktionszeiten erhöhen die Verfügbarkeit und
+                Produktivität ohne Qualitätseinbußen auch zu Urlaubszeiten.
+            </p>
+            <center><a href="@Url.Action("Support", "Home")">Mehr erfahren</a></center>
+        </section>
+    </div>
+    <div>
+        <section class="col-lg-4 col-sm-12">
+            <center><img src="~/img/IT-Projekte.jpg" /></center>
+            <h3 style="text-align:center;padding-bottom:10px;">IT-Projekte</h3>
+            <p>
+                Die IT Infrastruktur ist das Herz moderner Organisationen. Entsprechend
+                sensibel müssen Veränderungen geplant und umgesetzt werden. Bei SHARKESH
+                steht Ihnen ein erfahrenes Team von der Konzeption bis zur Umsetzung zur
+                Verfügung. Wir analysieren die Ausgangslage und zeichnen die Etappen bis
+                zur erfolgreichen Zielerreichung auf. In regelmäßigen Abstimmungen erfahren
+                Sie transparente Kommunikation, die das Gefühl den richtigen Partner
+                gewählt zu haben verstärkt.
+            </p>
+            <center><a href="@Url.Action("Projekt", "Home")">Mehr erfahren</a></center>
+        </section>
+    </div>
+    <div>
+        <section class="col-lg-4 col-sm-12">
+            <center><img src="~/img/IT-Softwareentwicklung.jpg" /></center>
+            <h3 style="text-align:center;padding-bottom:10px;">Entwicklungsprojekt</h3>
+            <p>
+                Die Anforderungen an einen optimalen Prozessablauf ändern sich immer schneller.
+                SHARKESH übernimmt die Weiterentwicklung bestehender Software oder entwickelt
+                für Sie eine innovative Lösung nach Ihrem Anforderungskatalog.
+            </p>
+            <center><a href="@Url.Action("Entwicklungsprojekt", "Home")">Mehr erfahren</a></center>
+        </section>
     </div>
 </div>
-<!-- Content Ende -->
