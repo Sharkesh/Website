@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
     <title>@ViewBag.Title</title>
     @Styles.Render("~/Content/css")
+    @*@Styles.Render("https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css")*@
     @Scripts.Render("~/bundles/modernizr")
 </head>
 <body>
@@ -26,8 +27,8 @@
                 <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Home", "Index", "Home")</li>
                     <li>@Html.ActionLink("Über Uns", "About", "Home")</li>
-                    <li>@Html.ActionLink("Projekte", "Projects", "Home")</li>
-                    <li>@Html.ActionLink("Angebote", "Offers", "Home")</li>
+                    <li>@Html.ActionLink("IT-Services", "Projects", "Home")</li>
+                    <!--<li>@Html.ActionLink("Angebote", "Offers", "Home")</li>-->
                 </ul>
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
@@ -52,7 +53,9 @@
         </footer>
 
         @Scripts.Render("~/bundles/jquery")
+        @*@Scripts.Render("https://code.jquery.com/ui/1.12.1/jquery-ui.js")*@
         @Scripts.Render("~/bundles/bootstrap")
+        @Scripts.Render("~/Scripts/script.js")
         @RenderSection("scripts", required: false)
 </body>
 </html>
