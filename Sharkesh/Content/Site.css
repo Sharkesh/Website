@@ -95,3 +95,15 @@ h5{
     color:#2B425B;
     font-family: 'Franklin Gothic Book', sans-serif;
 }
+
+h6{
+    color: #2B425B;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Book', sans-serif;
+    text-align: center;
+    font-size:17pt;
+    padding-top:20px;
+}
+#accordion{
+    text-space-collapse:collapse;
+}
